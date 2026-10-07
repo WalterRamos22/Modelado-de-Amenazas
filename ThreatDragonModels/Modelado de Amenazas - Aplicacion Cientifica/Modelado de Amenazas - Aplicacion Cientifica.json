@@ -116,6 +116,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -199,7 +200,6 @@
               ]
             },
             "id": "175a5940-928d-4546-b1ca-f4612c284998",
-            "zIndex": 1,
             "data": {
               "type": "tm.Actor",
               "name": "User",
@@ -251,6 +251,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -334,7 +335,6 @@
               ]
             },
             "id": "83048d07-b2ff-4380-a29e-11531b7fd542",
-            "zIndex": 2,
             "data": {
               "type": "tm.Process",
               "name": "Web Browser",
@@ -371,6 +371,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -454,7 +455,6 @@
               ]
             },
             "id": "6dda5a36-12d0-42a2-a9d6-9c3bffafac67",
-            "zIndex": 3,
             "data": {
               "type": "tm.Process",
               "name": "API Gateway",
@@ -513,6 +513,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 4,
             "ports": {
               "groups": {
                 "top": {
@@ -596,7 +597,6 @@
               ]
             },
             "id": "33e5ef67-5c18-48a9-b472-ba05d17fc387",
-            "zIndex": 4,
             "data": {
               "type": "tm.Actor",
               "name": "Third Party Applications",
@@ -630,6 +630,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 5,
             "ports": {
               "groups": {
                 "top": {
@@ -713,7 +714,6 @@
               ]
             },
             "id": "28e21656-834c-4854-8725-e8f61543d64b",
-            "zIndex": 5,
             "data": {
               "type": "tm.Process",
               "name": "Data Processor",
@@ -777,6 +777,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 6,
             "ports": {
               "groups": {
                 "top": {
@@ -860,7 +861,6 @@
               ]
             },
             "id": "3e909702-262f-4f94-b7c0-3560c0b1316e",
-            "zIndex": 6,
             "data": {
               "type": "tm.Store",
               "name": "Processed Scientific Data",
