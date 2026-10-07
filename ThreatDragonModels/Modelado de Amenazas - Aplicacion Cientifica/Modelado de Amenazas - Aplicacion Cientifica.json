@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-10-06",
+  "summary": {
+    "title": "Modelado de Amenazas - Aplicacion Cientifica",
+    "owner": "Walter Ramos",
+    "description": "Walter Ramos - Análisis de amenazas de una arquitectura que permite la interacción de usuarios y aplicaciones externas con servicios internos encargados de recibir, procesar y almacenar información científica, considerando los límites de confianza y los flujos de datos entre sus componentes.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagrama de Aplicacion Cientifica",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Diagrama de flujo de datos utilizado para identificar amenazas en los componentes, actores, procesos, almacenamiento y comunicaciones de la aplicación."
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
